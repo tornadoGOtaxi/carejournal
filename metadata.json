@@ -1,0 +1,7 @@
+{
+  "name": "Copy of CareJournal - Simple Shift Handoff",
+  "description": "A low-friction shift journal and scheduling app designed for non-technical in-home care staff to track time, metrics, and critical shift notes.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
